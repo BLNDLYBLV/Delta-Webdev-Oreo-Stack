@@ -7,4 +7,4 @@
 - Clicking the 'add new cookie' btn will create a new stack to be controlled.
 - Once you have a stack you can move it around by clicking and dragging the stack.
 - It is not visible but if you click the right bottom corner and move, the stack's size also changes accordingly.
-- **And if you are using firefox please increase your screen size to 120%-130% for better experience**
+- **Please increase your browser screen size to 120%-130% for better experience**
