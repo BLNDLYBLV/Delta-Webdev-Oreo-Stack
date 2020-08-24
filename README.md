@@ -8,3 +8,6 @@
 - Once you have a stack you can move it around by clicking and dragging the stack.
 - It is not visible but if you click the right bottom corner and move, the stack's size also changes accordingly.
 *   **Please increase your browser screen size to 120%-130% for better experience.(I started making the page with 130% and found it after i finished everything 😅😅 )** 
+---
+
+## you can access the page here https://blndlyblv.github.io/Delta-Webdev-Oreo-Stack/
